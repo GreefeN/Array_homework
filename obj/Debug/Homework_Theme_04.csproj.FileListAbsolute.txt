@@ -1,7 +1,0 @@
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.csprojAssemblyReference.cache
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.csproj.CoreCompileInputs.cache
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
-D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb

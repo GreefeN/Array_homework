@@ -1,0 +1,13 @@
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.csprojAssemblyReference.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.AssemblyInfoInputs.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.AssemblyInfo.cs
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.csproj.CoreCompileInputs.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.exe
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.deps.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.runtimeconfig.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.runtimeconfig.dev.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.dll
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\bin\Debug\netcoreapp3.1\Homework4_task3_part1.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.dll
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\Homework4_task3_part1\obj\Debug\netcoreapp3.1\Homework4_task3_part1.genruntimeconfig.cache
