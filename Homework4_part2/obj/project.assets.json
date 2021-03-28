@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homework4_part2\\Homework4_task2.csproj",
+      "projectUniqueName": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homework4_part2\\Homework4_task2.csproj",
       "projectName": "Homework4_task2",
-      "projectPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homework4_part2\\Homework4_task2.csproj",
+      "projectPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homework4_part2\\Homework4_task2.csproj",
       "packagesPath": "C:\\Users\\GreefeN\\.nuget\\packages\\",
-      "outputPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homework4_part2\\obj\\",
+      "outputPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homework4_part2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GreefeN\\AppData\\Roaming\\NuGet\\NuGet.Config",

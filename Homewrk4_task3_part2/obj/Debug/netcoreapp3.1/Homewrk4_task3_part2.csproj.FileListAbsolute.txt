@@ -11,3 +11,16 @@ D:\SkillboxMyMaterial\Skillbox_c#\4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.dll
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.pdb
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.genruntimeconfig.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.exe
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.deps.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.runtimeconfig.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.runtimeconfig.dev.json
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.dll
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\bin\Debug\netcoreapp3.1\Homewrk4_task3_part2.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.csprojAssemblyReference.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.AssemblyInfoInputs.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.AssemblyInfo.cs
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.csproj.CoreCompileInputs.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.dll
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homewrk4_task3_part2\obj\Debug\netcoreapp3.1\Homewrk4_task3_part2.genruntimeconfig.cache

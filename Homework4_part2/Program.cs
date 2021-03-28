@@ -41,9 +41,6 @@ namespace Homework4_part2
 
             for (int i = 0; i <= triangleOfPascal.GetUpperBound(0); i++)    //построчечное заполнение массива массивов
             {
-
-                //????
-
                 for (int j = 0; j < triangleOfPascal[i].Length; j++)    //заполнение пирамиды
                 {
                     if (i == 0 || i == 1)   //исключение вычислений для первых двух массивов, прост присваивание значений
@@ -61,7 +58,7 @@ namespace Homework4_part2
                             triangleOfPascal[i][j] = triangleOfPascal[i - 1][j] + triangleOfPascal[i - 1][j - 1];
                         }
                     }
-                    Console.Write($" {triangleOfPascal[i][j]} ");
+                    Console.Write($" {triangleOfPascal[i][j],7} ");
                 }
                 Console.WriteLine();
             }

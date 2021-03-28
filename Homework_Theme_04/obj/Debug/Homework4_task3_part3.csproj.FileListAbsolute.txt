@@ -5,3 +5,10 @@ D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework4_task3_
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework4_task3_part3.csproj.CoreCompileInputs.cache
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
 D:\SkillboxMyMaterial\Skillbox_c#\4\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\obj\Debug\Homework4_task3_part3.csprojAssemblyReference.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\obj\Debug\Homework4_task3_part3.csproj.CoreCompileInputs.cache
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+D:\SkillboxMyMaterial\Skillbox_c#\4\HomeWork4\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb

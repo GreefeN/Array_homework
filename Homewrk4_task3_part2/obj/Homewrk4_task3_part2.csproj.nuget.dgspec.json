@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj": {}
+    "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj": {}
   },
   "projects": {
-    "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj": {
+    "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj",
+        "projectUniqueName": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj",
         "projectName": "Homewrk4_task3_part2",
-        "projectPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj",
+        "projectPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homewrk4_task3_part2\\Homewrk4_task3_part2.csproj",
         "packagesPath": "C:\\Users\\GreefeN\\.nuget\\packages\\",
-        "outputPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\Homewrk4_task3_part2\\obj\\",
+        "outputPath": "D:\\SkillboxMyMaterial\\Skillbox_c#\\4\\HomeWork4\\Homewrk4_task3_part2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GreefeN\\AppData\\Roaming\\NuGet\\NuGet.Config",
